@@ -88,22 +88,6 @@ The application includes responsive design features:
  - Adaptive header with mobile/desktop logos
  - Flexible product grid system
 
-### Getting Started
-1. Clone the repository
-2. Ensure all HTML files are in the root directory
-3. Maintain the following directory structure:
-├── images/
-│   ├── icons/
-│   └── products/
-├── styles/
-│   ├── shared/
-│   └── pages/
-├── scripts/
-│   └── utils/
-├── data/
-└── index.html
-4. Open amazon.html in a web browser to start using the application
-
 ## Browser Compatibility
 The application uses modern JavaScript features and requires a contemporary web browser that supports:
  - ES6+ JavaScript
